@@ -28,7 +28,7 @@ CXXFLAGS += $(CFLAGS) -fpermissive
 WINDRESFLAGS += $(ALLSRCFLAGS) --codepage=65001
 LDFLAGS += -static -static-libstdc++ -static-libgcc -Wl,--kill-at -fPIC
 LDFLAGS_LIB += -shared
-LDLIBS += 
+LDLIBS += -luuid
 
 %.o: %.c
 	@printf '\t%s %s\n' CC $<
