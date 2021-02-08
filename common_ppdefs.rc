@@ -1,8 +1,0 @@
-#define RC_URL "https://github.com/uyjulian/wmrdump"
-#define RC_COMMENTS "Source code for the latest version of this product is located on the World Wide Web at https://github.com/uyjulian/wmrdump"
-#define RC_DESC "wmrdump Plugin for TVP(KIRIKIRI) (2/Z)"
-#define RC_INTERNALNAME "wmrdump"
-#define RC_LEGALCOPYRIGHT "Copyright (C) 2020-2020 Julian Uy; See details of license at license.txt, or the source code location."
-#define RC_ORIGINALFILENAME "wmrdump.dll"
-#define RC_PRODUCTNAME "wmrdump Plugin for TVP(KIRIKIRI) (2/Z)"
-#define GIT_TAG ""
